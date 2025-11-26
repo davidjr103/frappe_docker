@@ -1,0 +1,100 @@
+[
+		{
+    "url": "https://github.com/frappe/payments",
+    "branch": "version-15"
+  },
+		{
+    "url": "https://github.com/frappe/hrms",
+    "branch": "version-15"
+  },
+		{
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+		{
+    "url": "https://github.com/frappe/ecommerce_integrations",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/The-Commit-Company/raven",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/frappe/erpnext-shipping",
+    "branch": "version-15"
+  }, 
+        {
+    "url": "https://github.com/ASATechnologies/POS-Awesome",
+    "branch": "version-15"
+  },
+        {
+    "url": "https://github.com/frappe/webshop",
+    "branch": "version-15"
+  },
+        {
+    "url": "https://github.com/frappe/lms",
+    "branch": "develop"
+  },    
+        {
+    "url": "https://github.com/frappe/print_designer",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/frappe/chat",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/frappe/twilio-integration",
+    "branch": "master"
+  },
+        {
+    "url": "https://github.com/shridarpatil/frappe_whatsapp",
+    "branch": "master"
+  },   
+        {
+    "url": "https://github.com/frappe/erpnext_usa",
+    "branch": "develop"
+  },
+        {
+    "url": "https://github.com/frappe/wiki",
+    "branch": "master"
+  },
+        {
+    "url": "https://github.com/frappe/insights",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/frappe/helpdesk",
+    "branch": "main"
+  },
+        {
+    "url": "https://github.com/frappe/crm",
+    "branch": "main"
+  },
+  		{
+    "url": "https://github.com/frappe/non_profit",
+    "branch": "develop"
+  },
+        {
+    "url": "https://github.com/frappe/education",
+    "branch": "version-15"
+  },
+        {
+    "url": "https://github.com/frappe/hospitality",
+    "branch": "develop"
+  },
+        {
+    "url": "https://github.com/frappe/health",
+    "branch": "version-15"
+  },
+          {
+    "url": "https://github.com/aakvatech/CSF_TZ",
+    "branch": "version-15"
+  }, 
+        {
+    "url": "https://github.com/aakvatech/PropMS",
+    "branch": "version-15"
+  }     
+  
+  
+  ]
